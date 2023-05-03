@@ -13,6 +13,7 @@ body{
     color: white;
     padding-left: 4vw;
     padding-top: 0.5vw;
+    font-family: Tahoma, sans-serif;
 }
 .main_nav{
     background-color: rgba(0,0,0,0.6);
@@ -30,7 +31,8 @@ ul{
 a{
     text-decoration: none;
     color: white;
-    font-size: 1.1vw;
+    font-size: 1vw;
+    font-family: Tahoma, sans-serif;
 }
 li{
     padding-left: 3vw;
@@ -49,6 +51,7 @@ ul li a:hover{
     font-size: 0.9vw;
     padding: 0.6vw 2vw 0.6vw 2vw; 
     border-radius: 3px;
+    font-family: Tahoma, sans-serif;
 }
 #start1:hover{
     background-color: rgb(250,193,80);
@@ -58,16 +61,19 @@ ul li a:hover{
 .text1{
     text-align: center;
     color: white;
-    font-size: 4vw;
+    font-size: 3.5vw;
     padding-top: 12vw;
     font-weight: 550;
+    font-family: Tahoma, sans-serif;
 }
 .text2{
     text-align: center;
     color: white;
-    font-size: 1.7vw;
+    font-size: 1.5vw;
     padding-top: 1vw;
     padding-right: 1vw;
+    font-family: Tahoma, sans-serif;
+    opacity: 0.9;
 }
 .contain{
     display: flex;
@@ -78,7 +84,8 @@ ul li a:hover{
     margin-left: 15vw;
     height: 21vh;
     width: 12vw;
-    border: 1px solid antiquewhite;
+    border: 1px solid rgba(250, 235, 215, 0.5);
+    
 }
 .first_con:hover{
     border: 1px solid rgb(250,193,80);
@@ -87,7 +94,7 @@ ul li a:hover{
     margin-left: 2vw;
     height: 21vh;
     width: 12vw;
-    border: 1px solid antiquewhite;
+    border: 1px solid rgba(250, 235, 215, 0.5);
 }
 .second_con:hover{
     border: 1px solid rgb(250,193,80);
@@ -96,7 +103,7 @@ ul li a:hover{
     margin-left: 2vw;
     height: 21vh;
     width: 12vw;
-    border: 1px solid antiquewhite;
+    border: 1px solid rgba(250, 235, 215, 0.5);
 }
 .third_con:hover{
     border: 1px solid rgb(250,193,80);
@@ -105,7 +112,7 @@ ul li a:hover{
     margin-left: 2vw;
     height: 21vh;
     width: 12vw;
-    border: 1px solid antiquewhite;
+    border: 1px solid rgba(250, 235, 215, 0.5);
 }
 .forth_con:hover{
     border: 1px solid rgb(250,193,80);
@@ -114,7 +121,7 @@ ul li a:hover{
     margin-left: 2vw;
     height: 21vh;
     width: 12vw;
-    border: 1px solid antiquewhite;
+    border: 1px solid rgba(250, 235, 215, 0.5);
 }
 .fifth_con:hover{
     border: 1px solid rgb(250,193,80);
@@ -128,8 +135,11 @@ ul li a:hover{
 .con11,.con22,.con33,.con44,.con55{
     text-align: center;
     padding-top: 1.5vw;
-    font-size: 1.3vw;
+    font-size: 1.1vw;
+    font-weight: 550;
     color: white;
+    font-family: Tahoma, sans-serif;
+    opacity: 0.9;
 }
 .two{
     position: relative;
@@ -151,37 +161,42 @@ ul li a:hover{
     height: 75vh;
 }
 .sec_two1{
-    font-size: 2.1vw;
+    font-size: 1.7vw;
     font-weight: 550;
     color: rgb(44, 43, 43);
+    font-family: Tahoma, sans-serif;
 }
 .sec_two2{
-    font-size: 1.3vw;
+    font-size: 1.2vw;
     padding-top: 1vw;
     color: rgb(44, 43, 43);
 }
 .sec_two3{
-    font-size: 1.3vw;
+    font-size: 1.1vw;
     padding-top: 1.5vw;
     color: rgb(44, 43, 43);
+    font-family: Tahoma, sans-serif;
 }
 .sec_two4{
-    font-size: 1.3vw;
+    font-size: 1.1vw;
     padding-top: 1vw;
     color: rgb(44, 43, 43);
+    font-family: Tahoma, sans-serif;
 }
 .sec_two5{
-    font-size: 1.3vw;
+    font-size: 1.1vw;
     padding-top: 1vw;
     color: rgb(44, 43, 43);
+    font-family: Tahoma, sans-serif;
 }
 .sec_two3 i,.sec_two4 i,.sec_two5 i{
     color:rgb(250,193,80) ;
 }
 .sec_two6{
-    font-size: 1.3vw;
+    font-size: 1.1vw;
     padding-top: 1.5vw;
     color: rgb(44, 43, 43);
+    font-family: Tahoma, sans-serif;
 }
 .three{
     height: 25vh;
@@ -204,8 +219,8 @@ ul li a:hover{
     color: rgb(179,179,179);
 }
 .four{
-    padding-left: 10vw;
-    padding-right: 10vw;
+    padding-left: 8vw;
+    padding-right: 8vw;
     padding-top: 1vw;
     height: 75vh;
     display: flex;
@@ -215,36 +230,44 @@ ul li a:hover{
     width: 42vw;
 }
 .sec_four_main{
-    padding-left: 3vw;
-    padding-top: 1vw;
+    padding-left: 2vw;
 }
 .four1 i,.four2 i,.four3 i,.four4 i{
     color: rgb(250,193,80);
     font-size: 2.3vw;
-    vertical-align: sub;
+    vertical-align: top;
     opacity: 0.9;
 }
 .four1,.four2,.four3,.four4{
-    font-size: 1.6vw;
-    padding-top: 1.5vw;
+    font-size: 1.35vw;
+    font-weight: 550;
+    /* padding-top: 1.5vw; */
     color: rgb(44, 43, 43);
+    font-family: Tahoma, sans-serif;
+}
+.four2,.four3,.four4{
+    padding-top: 3.2vw;
 }
 .four11,.four22,.four33,.four44{
-    font-size: 1.2vw;
+    font-size: 1.1vw;
     padding-top: 0.2vw;
     padding-left: 3.4vw;
     color: gray;
+    font-family: Tahoma, sans-serif;
 }
 .fiv_1{
-    font-size: 1.1vw;
+    font-size: 1vw;
     margin-left: 8vw;
     color: gray;
+    font-family: Tahoma, sans-serif;
 }
 .fiv_2{
     font-size: 2.1vw;
     font-weight: 550;
     margin-left: 8vw;
     margin-bottom: 3vw;
+    font-family: Tahoma, sans-serif;
+    color: rgb(33, 33, 33);
 }
 .fiv_main{
     margin-left: 6vw;
@@ -293,20 +316,23 @@ ul li a:hover{
     background-color: rgb(250,193,80);
     height: 6.5vh;
     width: 5vw;
-    
 }
 .sub1_one2,.sub1_two2,.sub1_three2,.sub2_four2,.sub2_five2,.sub2_six2{
     text-align: center;
     padding-top: 2vw;
     font-size: 1.6vw;
     font-weight: 550;
+    font-family: Tahoma, sans-serif;
+    color: rgb(33, 33, 33);
 }
 .sub1_one3,.sub1_two3,.sub1_three3,.sub2_four3,.sub2_five3,.sub2_six3{
     text-align: center;
     padding-top: 1.5vw;
-    font-size: 1.15vw;
+    font-size: 1vw;
     padding-left: 1vw;
     padding-right: 1vw;
+    font-family: Tahoma, sans-serif;
+    color: gray;
 }
 .six{
     background-image: linear-gradient(rgba(0, 0, 0, 0.6), rgba(0, 0, 0, 0.6)), url("cta-bg.jpg");
@@ -321,14 +347,18 @@ ul li a:hover{
     text-align: center;
     font-size: 2vw;
     font-weight: 550;
+    font-family: Tahoma, sans-serif;
+    opacity: 0.95;
 }
 .six_text1{
     color: white;
     text-align: center;
     margin-left: 15vw;
     margin-right: 15vw;
-    font-size: 1.2vw;
+    font-size: 1.05vw;
     padding-top: 1vw;
+    font-family: Tahoma, sans-serif;
+    opacity: 0.95;
 }
 .six_btn{
     color: white;
@@ -341,6 +371,8 @@ ul li a:hover{
     border-radius: 0.3vw;
     margin-top: 1vw;
     font-size: 1.1vw;
+    font-family: Tahoma, sans-serif;
+    opacity: 0.95;
 }
 .six_btn:hover{
     background-color: rgb(250,193,80);
@@ -350,18 +382,23 @@ ul li a:hover{
     cursor: pointer;
 }
 .seven{
-    margin-left: 9vw;
+    margin-left: 7vw;
     margin-top: 8vh;
     margin-right: 8vw;
-    height: 30vh;
+    height: 6vw;
 }
 .portfolio{
-    font-size: 1.1vw;
+    padding-left: 2vw;
+    font-size: 1vw;
     color: gray;
+    font-family: Tahoma, sans-serif;
 }
 .portfolio1{
     font-size: 2.3vw;
     font-weight: 550;
+    padding-left: 2vw;
+    font-family: Tahoma, sans-serif;
+    color: rgb(33, 33, 33);
 }
 .port_nev{
     display: flex;
@@ -370,7 +407,7 @@ ul li a:hover{
 }
 .port_list a{
     list-style-type: none;
-    color: gray;
+    color: rgb(79, 78, 78);
     padding: 0.5vw;
     border-radius: 0.3vw;
 }
@@ -383,69 +420,81 @@ ul li a:hover{
     margin-left: 9vw;
 }
 .port_img{
-    position: relative;
+    display: flex;
     flex-wrap: wrap;
+    justify-content: center;
+    overflow: hidden;
 }
 .twentytwo{
     margin-bottom: 8.9vw;
-    margin-left: 1vw;
+    margin-left: 1.5vw;
 }
 .port_img img:hover{
+    opacity: 0.6;
     transform: scale(1.1);
     transition-duration: 0.3s;
-    opacity: 0.6;
 }
 .twentythree{
+    position: relative;
     margin-bottom: 11.65vw;
-    margin-left: 1vw;
+    margin-left: 1.5vw;
 }
 .twentyfour{
-    margin-top: 1vw;   
+    position: absolute;
+    margin-left: -54.9vw;
+    margin-top: 28vw;
 }
 .twentyfive{
-    margin-left: 1vw;
+    position: absolute;
+    margin-top: 19.1vw;
 }
 .twentysix{
-    margin-left: 1vw;
-    margin-bottom: 21.6vw;
+    position: absolute;
+    margin-left: 55vw;
+    margin-top: 16.3vw;
 }
 .twentyseven{
-    margin-top: 1vw;
+    position: absolute;
+    margin-left: 55vw;
+    margin-top: 35.1vw;
 }
 .twentyeight{
-    margin-left: 1vw;
-    margin-top: 1vw;
+    position: absolute;
+    margin-left: 55vw;
+    margin-top: 53.8vw;
 }
 .twentynine{
-    margin-left: 1vw;
-    margin-top: 1vw;
+    position: absolute;
+    margin-top: 59.5vw;
 }
 .eight{
     display: flex;
     position: relative;
     margin-top: 88vw;
-    margin-left: 9vw;
-    margin-right: 9vw;
+    margin-left: 8vw;
+    margin-right: 8vw;
     height: 72vh;
 }
 .eight_img img{
-    width: 32vw;
-    /* height: 60vh; */
+    width: 35vw;
+    height: 30vw;
 }
 .eight_text_main{
     padding-left: 3vw;
-    padding-top: 4vw;
+    padding-top: 3vw;
 }
 .eight_text{
     font-size: 2.1vw;
     font-weight: 550;
     color: rgb(44, 43, 43);
+    font-family: Tahoma, sans-serif;
 }
 .eight_text1{
     font-size: 1.1vw;
     padding-top: 1vw;
     padding-bottom: 2vw;
     color: rgb(86, 86, 86);
+    font-family: Tahoma, sans-serif;
 }
 .eight_text2{
     display: flex;
@@ -478,10 +527,12 @@ ul li a:hover{
     font-weight: 550;
     font-size: 2.2vw;
     color: rgb(44, 43, 43);
+    font-family: Tahoma, sans-serif;
 }
 .eight_text2_txt12,.eight_text2_txt22,.eight_text3_txt12,.eight_text3_txt22{
     color: rgb(86, 86, 86);
     font-size: 1vw;
+    font-family: Tahoma, sans-serif;
 }
 .nine{
     background-image: linear-gradient(rgba(0, 0, 0, 0.6), rgba(0, 0, 0, 0.6)), url("testimonials-bg.jpg");
@@ -499,28 +550,35 @@ ul li a:hover{
 .nine_text{
     text-align: center;
     color: white;
-    font-size: 1.6vw;
+    font-size: 1.4vw;
     font-weight: 550;
     margin-top: 0.6vw;
+    font-family: Tahoma, sans-serif;
+    opacity: 0.95;
 }
 .nine_text1{
     text-align: center;
     color: white;
     margin-top: 0.2vw;
     font-size: 1vw;
+    font-family: Tahoma, sans-serif;
+    opacity: 0.95;
 }
 .nine_text2{
     text-align: center;
     color: white;
     margin-top: 1.5vw;
-    font-size: 1.15vw;
+    font-size: 1.1vw;
     padding-left: 13vw;
     padding-right: 13vw;
+    font-family: Tahoma, sans-serif;
+    opacity: 0.95;
 }
 .nine_text3{
     text-align: center;
     color: white;
     font-size: 5vw;
+    opacity: 0.95;
 }
 .ten{
     margin-left: 7vw;
@@ -531,15 +589,18 @@ ul li a:hover{
     display: flex;
 }
 .ten_text{
-    font-size: 1.1vw;
+    font-size: 1vw;
     margin-left: 1vw;
     color: gray;
+    font-family: Tahoma, sans-serif;
 }
 .ten_text1{
     font-size: 2.3vw;
     font-weight: 550;
     margin-left: 1vw;
     margin-bottom: 3.5vw;
+    font-family: Tahoma, sans-serif;
+    color: rgb(33, 33, 33);
 }
 .ten_img1 img,.ten_img2 img,.ten_img3 img,.ten_img4 img{
     width: 20vw;
@@ -557,18 +618,21 @@ ul li a:hover{
     border-radius: 0.5vw;
 }
 .ten_img1_text,.ten_img2_text,.ten_img3_text,.ten_img4_text{
-    font-size: 1.4vw;
+    font-size: 1.3vw;
     margin-top: 1vw;
     margin-left: 1vw;
     font-weight: 550;
     opacity: 0.95;
+    font-family: Tahoma, sans-serif;
+    color: rgb(33, 33, 33);
 }
 .ten_img1_text1,.ten_img2_text1,.ten_img3_text1,.ten_img4_text1{
-    font-size: 1.05vw;
+    font-size: 1vw;
     margin-top: 0.4vw;
     margin-bottom: 1.2vw;
     margin-left: 1vw;
     color: gray;
+    font-family: Tahoma, sans-serif;
 }
 .eleven{
     margin-left: 8vw;
@@ -577,14 +641,16 @@ ul li a:hover{
     height: 55vw;
 }
 .eleven_text{
-    font-size: 1.1vw;
+    font-size: 1vw;
     color: gray;
-    
+    font-family: Tahoma, sans-serif;
 }
 .eleven_text1{
     font-size: 2.3vw;
     font-weight: 550;
     margin-bottom: 3.5vw;
+    font-family: Tahoma, sans-serif;
+    color: rgb(33, 33, 33);
 }
 .eleven_map1{
     height: 20vw;
@@ -618,14 +684,16 @@ ul li a:hover{
     padding-right: 1.15vw;
 }
 .location_1_txt1,.email_1_txt1,.call_1_txt1{
-    font-size: 1.55vw;
-    font-weight: 550;
+    font-size: 1.5vw;
+    /* font-weight: 550;    */
     margin-top: 1vw;
     color: rgb(44, 43, 43);
+    font-family: Tahoma, sans-serif;
 }
 .location_1_txt2,.email_1_txt2,.call_1_txt2{
     color: gray;
-    font-size: 1.05vw;
+    font-size: 0.9vw;
+    font-family: Tahoma, sans-serif;
 }
 .info_get{
     margin-left: 6vw;
@@ -662,6 +730,7 @@ ul li a:hover{
     margin-left: 22.5vw;
     border-radius: 4px;
     font-size: 1vw;
+    font-family: Tahoma, sans-serif;
 }
 .submit:hover{
     opacity: 0.8;
@@ -677,14 +746,17 @@ ul li a:hover{
 }
 .twelve_sec1_txt1{
     font-size: 2vw;
+    font-family: Tahoma, sans-serif;
 }
 .twelve_sec1_txt2{
     font-size: 1vw;
     padding-top: 1.5vw;
+    font-family: Tahoma, sans-serif;
 }
 .twelve_sec1_txt3{
     font-size: 1vw;
     padding-top: 1.5vw;
+    font-family: Tahoma, sans-serif;
 }
 .twelve_sec1 i{
     color: white;
@@ -706,6 +778,7 @@ ul li a:hover{
 .twelve_sec2_txt2,.twelve_sec2_txt3,.twelve_sec2_txt4,.twelve_sec2_txt5,.twelve_sec2_txt6{
     padding-top: 0.5vw;
     font-size: 1vw;
+    font-family: Tahoma, sans-serif;
 }
 .twelve_sec2_txt2:hover,.twelve_sec2_txt3:hover,.twelve_sec2_txt4:hover,.twelve_sec2_txt5:hover,.twelve_sec2_txt6:hover{
     color: rgb(250,193,80);
@@ -721,8 +794,9 @@ ul li a:hover{
     padding-bottom: 0.5vw;
 }
 .twelve_sec3_txt2,.twelve_sec3_txt3,.twelve_sec3_txt4,.twelve_sec3_txt5,.twelve_sec3_txt6{
-    padding-top: 0.5vw;
+    padding-top: 1vw;
     font-size: 1vw;
+    font-family: Tahoma, sans-serif;
 }
 .twelve_sec3_txt2:hover,.twelve_sec3_txt3:hover,.twelve_sec3_txt4:hover,.twelve_sec3_txt5:hover,.twelve_sec3_txt6:hover{
     color: rgb(250,193,80);
@@ -741,24 +815,30 @@ ul li a:hover{
 .twelve_sec4_txt1{
     font-size: 1.3vw;
     padding-bottom: 1vw;
+    font-family: Tahoma, sans-serif;
 }
 .twelve_sec4_txt2{
     font-size: 1vw;
+    font-family: Tahoma, sans-serif;
 }
 .subscribe1{
+    position: relative;
     border-radius: 5px 0px 0px 5px;
     border: none;
+    margin-top: 2.1vw;
     height: 2.6vw;
     width: 15.5vw;
 }
 .subscribe{
+    position: absolute;
     border: none;
     border-radius: 0px 5px 5px 0px;
-    margin-top: 2vw;
+    margin-top: 2.1vw;
     background-color: rgb(250,193,80);
     height: 2.7vw;
     width: 8vw;
     font-size: 1vw;
+    font-family: Tahoma, sans-serif;
 }
 .subscribe:hover{
     opacity: 0.9;
