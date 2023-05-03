@@ -121,14 +121,14 @@ ul li a:hover{
 }
 .con1,.con2,.con3,.con4,.con5{
     padding-top: 5vh;
-    font-size: 2em;
+    font-size: 2.1vw;
     text-align: center;
     color: rgb(250,193,80);
 }
 .con11,.con22,.con33,.con44,.con55{
     text-align: center;
     padding-top: 1.5vw;
-    font-size: 1.3em;
+    font-size: 1.3vw;
     color: white;
 }
 .two{
@@ -137,12 +137,12 @@ ul li a:hover{
 }
 .sec_1{
     padding-right: 2vw;
-    padding-top: 2vw;
+    padding-top: 1.5vw;
 }
 .about_img{
     position: relative;
-    height: 60vh;
-    width: 40vw;
+    /* height: 60vh; */
+    width: 42vw;
 }
 .two{
     padding-left: 10vw;
@@ -151,27 +151,27 @@ ul li a:hover{
     height: 75vh;
 }
 .sec_two1{
-    font-size: 2em;
+    font-size: 2.1vw;
     font-weight: 550;
     color: rgb(44, 43, 43);
 }
 .sec_two2{
-    font-size: 1.2em;
+    font-size: 1.3vw;
     padding-top: 1vw;
     color: rgb(44, 43, 43);
 }
 .sec_two3{
-    font-size: 1.2em;
+    font-size: 1.3vw;
     padding-top: 1.5vw;
     color: rgb(44, 43, 43);
 }
 .sec_two4{
-    font-size: 1.2em;
+    font-size: 1.3vw;
     padding-top: 1vw;
     color: rgb(44, 43, 43);
 }
 .sec_two5{
-    font-size: 1.2em;
+    font-size: 1.3vw;
     padding-top: 1vw;
     color: rgb(44, 43, 43);
 }
@@ -179,7 +179,7 @@ ul li a:hover{
     color:rgb(250,193,80) ;
 }
 .sec_two6{
-    font-size: 1.2em;
+    font-size: 1.3vw;
     padding-top: 1.5vw;
     color: rgb(44, 43, 43);
 }
@@ -211,8 +211,8 @@ ul li a:hover{
     display: flex;
 }
 .sec_four1 img{
-    height: 60vh;
-    width: 40vw;
+    /* height: 60vh; */
+    width: 42vw;
 }
 .sec_four_main{
     padding-left: 3vw;
@@ -220,28 +220,28 @@ ul li a:hover{
 }
 .four1 i,.four2 i,.four3 i,.four4 i{
     color: rgb(250,193,80);
-    font-size: 1.4em;
+    font-size: 2.3vw;
     vertical-align: sub;
     opacity: 0.9;
 }
 .four1,.four2,.four3,.four4{
-    font-size: 1.6em;
+    font-size: 1.6vw;
     padding-top: 1.5vw;
     color: rgb(44, 43, 43);
 }
 .four11,.four22,.four33,.four44{
-    font-size: 1.1em;
+    font-size: 1.2vw;
     padding-top: 0.2vw;
     padding-left: 3.4vw;
     color: gray;
 }
 .fiv_1{
-    font-size: 1.1em;
+    font-size: 1.1vw;
     margin-left: 8vw;
     color: gray;
 }
 .fiv_2{
-    font-size: 2em;
+    font-size: 2.1vw;
     font-weight: 550;
     margin-left: 8vw;
     margin-bottom: 3vw;
@@ -289,7 +289,7 @@ ul li a:hover{
     padding-top: 2vh;
     border-radius: 1vh;
     text-align: center;
-    font-size: 2em;
+    font-size: 2vw;
     background-color: rgb(250,193,80);
     height: 6.5vh;
     width: 5vw;
@@ -298,13 +298,13 @@ ul li a:hover{
 .sub1_one2,.sub1_two2,.sub1_three2,.sub2_four2,.sub2_five2,.sub2_six2{
     text-align: center;
     padding-top: 2vw;
-    font-size: 1.5em;
+    font-size: 1.6vw;
     font-weight: 550;
 }
 .sub1_one3,.sub1_two3,.sub1_three3,.sub2_four3,.sub2_five3,.sub2_six3{
     text-align: center;
     padding-top: 1.5vw;
-    font-size: 1.1em;
+    font-size: 1.15vw;
     padding-left: 1vw;
     padding-right: 1vw;
 }
@@ -312,14 +312,14 @@ ul li a:hover{
     background-image: linear-gradient(rgba(0, 0, 0, 0.6), rgba(0, 0, 0, 0.6)), url("cta-bg.jpg");
     background-size: cover;
     background-attachment: fixed;
-    height: 35vh;
+    height: 18vw;
     width: 98.93vw;
 }
 .six_text{
     padding-top: 4vw;
     color: white;
     text-align: center;
-    font-size: 2em;
+    font-size: 2vw;
     font-weight: 550;
 }
 .six_text1{
@@ -327,7 +327,7 @@ ul li a:hover{
     text-align: center;
     margin-left: 15vw;
     margin-right: 15vw;
-    font-size: 1.1em;
+    font-size: 1.2vw;
     padding-top: 1vw;
 }
 .six_btn{
@@ -340,6 +340,7 @@ ul li a:hover{
     padding-bottom: 1vh;
     border-radius: 0.3vw;
     margin-top: 1vw;
+    font-size: 1.1vw;
 }
 .six_btn:hover{
     background-color: rgb(250,193,80);
@@ -355,11 +356,11 @@ ul li a:hover{
     height: 30vh;
 }
 .portfolio{
-    font-size: 1.1em;
+    font-size: 1.1vw;
     color: gray;
 }
 .portfolio1{
-    font-size: 2.2em;
+    font-size: 2.3vw;
     font-weight: 550;
 }
 .port_nev{
@@ -428,20 +429,20 @@ ul li a:hover{
     height: 72vh;
 }
 .eight_img img{
-    width: 35vw;
-    height: 60vh;
+    width: 32vw;
+    /* height: 60vh; */
 }
 .eight_text_main{
     padding-left: 3vw;
     padding-top: 4vw;
 }
 .eight_text{
-    font-size: 2em;
+    font-size: 2.1vw;
     font-weight: 550;
     color: rgb(44, 43, 43);
 }
 .eight_text1{
-    font-size: 1.1em;
+    font-size: 1.1vw;
     padding-top: 1vw;
     padding-bottom: 2vw;
     color: rgb(86, 86, 86);
@@ -468,24 +469,25 @@ ul li a:hover{
     margin-right: 6.5vw;
 }
 .eight_text2_txt1 i,.eight_text2_txt2 i,.eight_text3_txt1 i,.eight_text3_txt2 i{
-    font-size: 2.5em;
+    font-size: 2.7vw;
     color: rgb(250,193,80);
     padding-right: 1vw;
     padding-top: 0.5vw;
 }
 .eight_text2_txt11,.eight_text2_txt21,.eight_text3_txt11,.eight_text3_txt21{
     font-weight: 550;
-    font-size: 2.2em;
+    font-size: 2.2vw;
     color: rgb(44, 43, 43);
 }
 .eight_text2_txt12,.eight_text2_txt22,.eight_text3_txt12,.eight_text3_txt22{
     color: rgb(86, 86, 86);
+    font-size: 1vw;
 }
 .nine{
     background-image: linear-gradient(rgba(0, 0, 0, 0.6), rgba(0, 0, 0, 0.6)), url("testimonials-bg.jpg");
     background-attachment: fixed;
     background-size: cover;
-    height: 55vh;
+    height: 26vw;
 }
 .nine_img img{
     border: 5px solid rgba(220, 220, 220, 0.3);
@@ -497,7 +499,7 @@ ul li a:hover{
 .nine_text{
     text-align: center;
     color: white;
-    font-size: 1.5em;
+    font-size: 1.6vw;
     font-weight: 550;
     margin-top: 0.6vw;
 }
@@ -505,19 +507,20 @@ ul li a:hover{
     text-align: center;
     color: white;
     margin-top: 0.2vw;
+    font-size: 1vw;
 }
 .nine_text2{
     text-align: center;
     color: white;
     margin-top: 1.5vw;
-    font-size: 1.1em;
+    font-size: 1.15vw;
     padding-left: 13vw;
     padding-right: 13vw;
 }
 .nine_text3{
     text-align: center;
     color: white;
-    font-size: 5em;
+    font-size: 5vw;
 }
 .ten{
     margin-left: 7vw;
@@ -528,12 +531,12 @@ ul li a:hover{
     display: flex;
 }
 .ten_text{
-    font-size: 1.1em;
+    font-size: 1.1vw;
     margin-left: 1vw;
     color: gray;
 }
 .ten_text1{
-    font-size: 2.2em;
+    font-size: 2.3vw;
     font-weight: 550;
     margin-left: 1vw;
     margin-bottom: 3.5vw;
@@ -554,14 +557,14 @@ ul li a:hover{
     border-radius: 0.5vw;
 }
 .ten_img1_text,.ten_img2_text,.ten_img3_text,.ten_img4_text{
-    font-size: 1.3em;
+    font-size: 1.4vw;
     margin-top: 1vw;
     margin-left: 1vw;
     font-weight: 550;
     opacity: 0.95;
 }
 .ten_img1_text1,.ten_img2_text1,.ten_img3_text1,.ten_img4_text1{
-    font-size: 1em;
+    font-size: 1.05vw;
     margin-top: 0.4vw;
     margin-bottom: 1.2vw;
     margin-left: 1vw;
@@ -571,20 +574,20 @@ ul li a:hover{
     margin-left: 8vw;
     margin-right: 8vw;
     margin-top: 7vw;
-    height: 105vh;
+    height: 55vw;
 }
 .eleven_text{
-    font-size: 1.1em;
+    font-size: 1.1vw;
     color: gray;
     
 }
 .eleven_text1{
-    font-size: 2.2em;
+    font-size: 2.3vw;
     font-weight: 550;
     margin-bottom: 3.5vw;
 }
 .eleven_map1{
-    height: 35vh;
+    height: 20vw;
     width: 83.5vw;
     border: none;
 }
@@ -608,43 +611,49 @@ ul li a:hover{
     padding: 1vw;
     margin: 1vw;
     border-radius: 5px;
+    font-size: 1vw;
 }
 .location_1 i{
     padding-left: 1.15vw;
     padding-right: 1.15vw;
 }
 .location_1_txt1,.email_1_txt1,.call_1_txt1{
-    font-size: 1.5em;
+    font-size: 1.55vw;
     font-weight: 550;
     margin-top: 1vw;
     color: rgb(44, 43, 43);
 }
 .location_1_txt2,.email_1_txt2,.call_1_txt2{
     color: gray;
+    font-size: 1.05vw;
 }
 .info_get{
     margin-left: 6vw;
     margin-top: 1.5vw;
 }
 .text{
-    padding: 0.7vw 14vw 0.7vw 1vw;
     border: 2px solid rgba(0, 0, 0, 0.2);
     border-radius: 0.3vw;
+    height: 2.3vw;
+    width: 25vw;
 }
 .email{
-    padding: 0.7vw 14vw 0.7vw 1vw;
     border: 2px solid rgba(0, 0, 0, 0.2);
     border-radius: 0.3vw;
+    height: 2.3vw;
+    width: 25vw;
 }
 .subject{
-    padding: 0.7vw 41.3vw 0.7vw 1vw;
     border: 2px solid rgba(0, 0, 0, 0.2);
     border-radius: 0.3vw;
+    height: 2.3vw;
+    width: 52vw;
 }
 .message{
-    padding: 2.5vw 41.3vw 2.5vw 1vw;
     border: 2px solid rgba(0, 0, 0, 0.2);
     border-radius: 0.3vw;
+    height: 6vw;
+    width: 52vw;
 }
 .submit{
     background-color: rgb(250,193,80);
@@ -652,6 +661,7 @@ ul li a:hover{
     padding: 1vw;
     margin-left: 22.5vw;
     border-radius: 4px;
+    font-size: 1vw;
 }
 .submit:hover{
     opacity: 0.8;
@@ -663,22 +673,22 @@ ul li a:hover{
     padding-left: 8vw;
     padding-right: 8vw;
     padding-top: 3vw;
-    height: 35vh;
+    height: 16vw;
 }
 .twelve_sec1_txt1{
-    font-size: 2em;
+    font-size: 2vw;
 }
 .twelve_sec1_txt2{
-    font-size: 1em;
+    font-size: 1vw;
     padding-top: 1.5vw;
 }
 .twelve_sec1_txt3{
-    font-size: 1em;
+    font-size: 1vw;
     padding-top: 1.5vw;
 }
 .twelve_sec1 i{
     color: white;
-    font-size: 1.8em;
+    font-size: 1.9vw;
     padding-top: 1.5vw;
 }
 .twelve_sec1{
@@ -690,12 +700,12 @@ ul li a:hover{
     padding-top: 0.3vw;
 }
 .twelve_sec2_txt1{
-    font-size: 1.3em;
+    font-size: 1.3vw;
     padding-bottom: 0.5vw;
 }
 .twelve_sec2_txt2,.twelve_sec2_txt3,.twelve_sec2_txt4,.twelve_sec2_txt5,.twelve_sec2_txt6{
     padding-top: 0.5vw;
-    font-size: 0.9em;
+    font-size: 1vw;
 }
 .twelve_sec2_txt2:hover,.twelve_sec2_txt3:hover,.twelve_sec2_txt4:hover,.twelve_sec2_txt5:hover,.twelve_sec2_txt6:hover{
     color: rgb(250,193,80);
@@ -707,12 +717,12 @@ ul li a:hover{
     margin-top: -13vw;
 }
 .twelve_sec3_txt1{
-    font-size: 1.3em;
+    font-size: 1.3vw;
     padding-bottom: 0.5vw;
 }
 .twelve_sec3_txt2,.twelve_sec3_txt3,.twelve_sec3_txt4,.twelve_sec3_txt5,.twelve_sec3_txt6{
     padding-top: 0.5vw;
-    font-size: 0.9em;
+    font-size: 1vw;
 }
 .twelve_sec3_txt2:hover,.twelve_sec3_txt3:hover,.twelve_sec3_txt4:hover,.twelve_sec3_txt5:hover,.twelve_sec3_txt6:hover{
     color: rgb(250,193,80);
@@ -725,32 +735,35 @@ ul li a:hover{
 }
 .twelve_sec2_txt2 i,.twelve_sec2_txt3 i,.twelve_sec2_txt4 i,.twelve_sec2_txt5 i,.twelve_sec2_txt6 i,.twelve_sec3_txt2 i,.twelve_sec3_txt3 i,.twelve_sec3_txt4 i,.twelve_sec3_txt5 i,.twelve_sec3_txt6 i{
     color: rgb(250,193,80);
-    font-size: 0.7em;
+    font-size: 0.7vw;
     padding-top: 0.6vw;
 }
 .twelve_sec4_txt1{
-    font-size: 1.3em;
+    font-size: 1.3vw;
     padding-bottom: 1vw;
 }
 .twelve_sec4_txt2{
-    font-size: 0.9em;
+    font-size: 1vw;
 }
 .subscribe1{
-    padding: 1vw 4.2vw 1vw 4.2vw;
     border-radius: 5px 0px 0px 5px;
     border: none;
+    height: 2.6vw;
+    width: 15.5vw;
 }
 .subscribe{
-    padding: 1vw 2vw 1vw 2vw;
     border: none;
     border-radius: 0px 5px 5px 0px;
     margin-top: 2vw;
     background-color: rgb(250,193,80);
+    height: 2.7vw;
+    width: 8vw;
+    font-size: 1vw;
 }
 .subscribe:hover{
     opacity: 0.9;
     cursor: pointer;
 }
-.twitter i,.facebook i,.instagram i,.linkedin i{
+.facebook i,.instagram i,.linkedin i{
     padding-left: 0.5vw;
 }
