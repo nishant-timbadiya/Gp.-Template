@@ -309,7 +309,7 @@ ul li a:hover{
     padding-right: 1vw;
 }
 .six{
-    background-image: linear-gradient(rgba(0, 0, 0, 0.6), rgba(0, 0, 0, 0.6)), url("/cta-bg.jpg");
+    background-image: linear-gradient(rgba(0, 0, 0, 0.6), rgba(0, 0, 0, 0.6)), url("cta-bg.jpg");
     background-size: cover;
     background-attachment: fixed;
     height: 35vh;
@@ -482,7 +482,7 @@ ul li a:hover{
     color: rgb(86, 86, 86);
 }
 .nine{
-    background-image: linear-gradient(rgba(0, 0, 0, 0.6), rgba(0, 0, 0, 0.6)), url("/testimonials-bg.jpg");
+    background-image: linear-gradient(rgba(0, 0, 0, 0.6), rgba(0, 0, 0, 0.6)), url("testimonials-bg.jpg");
     background-attachment: fixed;
     background-size: cover;
     height: 55vh;
