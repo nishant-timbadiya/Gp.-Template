@@ -147,7 +147,7 @@ ul li a:hover{
 }
 .sec_1{
     padding-right: 2vw;
-    padding-top: 1.5vw;
+    /* padding-top: 1.5vw; */
 }
 .about_img{
     position: relative;
@@ -161,31 +161,31 @@ ul li a:hover{
     height: 75vh;
 }
 .sec_two1{
-    font-size: 1.7vw;
+    font-size: 2vw;
     font-weight: 550;
     color: rgb(44, 43, 43);
     font-family: Tahoma, sans-serif;
 }
 .sec_two2{
     font-size: 1.2vw;
-    padding-top: 1vw;
+    padding-top: 1.5vw;
     color: rgb(44, 43, 43);
 }
 .sec_two3{
     font-size: 1.1vw;
-    padding-top: 1.5vw;
+    padding-top: 2.5vw;
     color: rgb(44, 43, 43);
     font-family: Tahoma, sans-serif;
 }
 .sec_two4{
     font-size: 1.1vw;
-    padding-top: 1vw;
+    padding-top: 1.5vw;
     color: rgb(44, 43, 43);
     font-family: Tahoma, sans-serif;
 }
 .sec_two5{
     font-size: 1.1vw;
-    padding-top: 1vw;
+    padding-top: 1.5vw;
     color: rgb(44, 43, 43);
     font-family: Tahoma, sans-serif;
 }
@@ -194,7 +194,7 @@ ul li a:hover{
 }
 .sec_two6{
     font-size: 1.1vw;
-    padding-top: 1.5vw;
+    padding-top: 2.5vw;
     color: rgb(44, 43, 43);
     font-family: Tahoma, sans-serif;
 }
@@ -787,14 +787,14 @@ ul li a:hover{
     color: white;
     margin-left: 24vw;
     position: absolute;
-    margin-top: -13vw;
+    margin-top: -12.7vw;
 }
 .twelve_sec3_txt1{
     font-size: 1.3vw;
     padding-bottom: 0.5vw;
 }
 .twelve_sec3_txt2,.twelve_sec3_txt3,.twelve_sec3_txt4,.twelve_sec3_txt5,.twelve_sec3_txt6{
-    padding-top: 1vw;
+    padding-top: 0.5vw;
     font-size: 1vw;
     font-family: Tahoma, sans-serif;
 }
@@ -805,7 +805,7 @@ ul li a:hover{
     color: white;
     position: absolute;
     margin-left: 44vw;
-    margin-top: -14.5vw;
+    margin-top: -14vw;
 }
 .twelve_sec2_txt2 i,.twelve_sec2_txt3 i,.twelve_sec2_txt4 i,.twelve_sec2_txt5 i,.twelve_sec2_txt6 i,.twelve_sec3_txt2 i,.twelve_sec3_txt3 i,.twelve_sec3_txt4 i,.twelve_sec3_txt5 i,.twelve_sec3_txt6 i{
     color: rgb(250,193,80);
